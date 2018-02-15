@@ -11,6 +11,8 @@ enum class OpCodes :uint8_t
 	get_wisdom = 0x06,
 	exit = 0x07,
 
+	//Random Comment 1
+	
 	//load instructions
 	load_int = 0x08,
 	load_char = 0x09,

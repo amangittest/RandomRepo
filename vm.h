@@ -7,8 +7,9 @@ using namespace std;
 
 //git!!! 5 Hot Fix
 
-enum class DataType :uint8_t;
+//git!!! 4
 
+enum class DataType :uint8_t;
 union Instruction;
 
 struct Value;
