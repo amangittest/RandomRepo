@@ -5,10 +5,10 @@
 
 using namespace std;
 
-//git!!! 3
+
+//git!!! 4
 
 enum class DataType :uint8_t;
-
 union Instruction;
 
 struct Value;
