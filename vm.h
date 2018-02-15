@@ -17,7 +17,7 @@ class VMCore
 {
 	stack<Value> dataStack;
 
-
+	//Firery Hot Fix!!!
 
 	Value pop();
 	void push(Value val);
