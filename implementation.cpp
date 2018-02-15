@@ -1,5 +1,5 @@
 
-//Junk Comment
+//Random Comment
 
 void setHealth(int wizard, int amount)
 {
